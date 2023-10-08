@@ -1,2 +1,2 @@
 # Maua
-Lista de exercícios feitos quando estudava no Instituto Mauá de Tecnologia
+Listas de exercícios feitos quando estudava no Instituto Mauá de Tecnologia
