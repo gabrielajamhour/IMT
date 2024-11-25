@@ -10,3 +10,4 @@ y = aux
 
 print(f"x = {x} e y = {y}")
 
+a
