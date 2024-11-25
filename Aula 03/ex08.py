@@ -7,3 +7,4 @@ r = g*(math.pi)/180
 # π = math.pi
 
 print(f"Conversão para radianos: {r} rad")
+a
