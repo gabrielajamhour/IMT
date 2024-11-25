@@ -12,4 +12,3 @@ def soma_fracoes():
     print(f"{denominador_final}")
 
 soma_fracoes()
-a
