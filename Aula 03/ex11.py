@@ -5,4 +5,3 @@ cm = float(input("Digite uma medida em centímetros: "))
 p = cm/2.54
 
 print(f"Conversão para polegadas: {p}″")
-a
