@@ -16,4 +16,3 @@ def horario():
     print(f"{horas}h{minutos}m{segundos}s")
 
 horario()
-a
