@@ -10,5 +10,3 @@ n1 = resto%10
 print(f"Notas de 50: {n50}")
 print(f"Notas de 10: {n10}")
 print(f"Notas de 1: {n1}")
-
-a
