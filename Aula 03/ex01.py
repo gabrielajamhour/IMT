@@ -9,3 +9,4 @@ paralelo = R1 * R2 / (R1 + R2)   # item b
 print(f"Equivalente em série: {serie} Ω")
 print(f"Equivalente em paralelo: {paralelo} Ω")
 
+a
