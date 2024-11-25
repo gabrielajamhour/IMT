@@ -7,3 +7,4 @@ g = 180*r/(math.pi)
 # π = math.pi
 
 print(f"Conversão para graus: {g}°")
+a
