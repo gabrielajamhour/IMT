@@ -6,4 +6,3 @@ F = 9*C/5 + 32
 # É necessário isolar a variável °F na fórmula fornecida pelo exercício
 
 print(f"Conversão para °F: {F} °F")
-a
