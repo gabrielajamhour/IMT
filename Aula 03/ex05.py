@@ -9,5 +9,3 @@ y = aux
 # A função "aux" (variável auxiliar) serve para guardar um primeiro valor
 
 print(f"x = {x} e y = {y}")
-
-a
