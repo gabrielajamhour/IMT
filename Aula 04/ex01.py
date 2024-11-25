@@ -10,4 +10,3 @@ def Alcance():
     print(f"Alcance do projétil: {S}m")
 
 Alcance()
-a
