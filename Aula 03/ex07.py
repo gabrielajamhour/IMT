@@ -9,3 +9,4 @@ k = (s*(s-a)*(s-b)*(s-c))**0.5
 
 print(f"Área do triângulo: {k} cm²")
 
+a
