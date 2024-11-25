@@ -6,3 +6,4 @@ def cosseno_hiperbólico():
     print(f"{cosh}")
 
 cosseno_hiperbólico()
+a
